@@ -15,6 +15,7 @@ Nếu xuất hiện thông báo USB, chọn chế độ truyền dữ liệu là
 Chọn Cho phép gỡ lỗi USB khi có thông báo xác thực.
 
 - Cách để kiểm tra đã kích hoạt ADB:
+
 Cách 1: Trên VS Code, mở Terminal và nhập lần lượt: "cd C:\platform-tools" -> ".\adb.exe devices"
 => Nếu kết nối thành công, cậu sẽ thấy dạng:
 List of devices attached
